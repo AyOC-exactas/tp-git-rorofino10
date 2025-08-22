@@ -1,6 +1,7 @@
 # Presentación
-Hola! Mi nombre es [COMPLETAR].
 
-En mi tiempo libre me gusta...
+Hola! Mi nombre es Alfredo Román Orofino Lauría.
 
-Mi instrucción favorita del manual de intel es...
+En mi tiempo libre me gusta completar el archivo presentacion.md
+
+Mi instrucción favorita del manual de intel es mov
